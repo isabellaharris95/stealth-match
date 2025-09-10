@@ -1,0 +1,7 @@
+{
+  "address": "0x0000000000000000000000000000000000000000",
+  "verifier": "0x1234567890123456789012345678901234567890",
+  "network": "sepolia",
+  "deployedAt": "2024-01-01T00:00:00.000Z",
+  "note": "Update this file after deploying the contract"
+}
